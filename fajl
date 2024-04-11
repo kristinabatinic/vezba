@@ -1,0 +1,4 @@
+#include <stdio.h>
+public int main(){
+printf("Zdravo svete");
+}
